@@ -1,6 +1,6 @@
 package com.eightbit.learn.lld.basic.oops;
 
-public class DebitCard extends Card {
+public class DebitCard extends Card  {
     public DebitCard(String cardNumber, String userName) {
         super(cardNumber, userName);
     }

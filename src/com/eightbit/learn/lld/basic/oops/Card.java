@@ -1,6 +1,6 @@
 package com.eightbit.learn.lld.basic.oops;
 
-public abstract class Card {
+public abstract class Card implements PaymentMethod {
 
     private final String cardNumber;
     private final String userName;
@@ -19,5 +19,4 @@ public abstract class Card {
     }
 
 
-    public abstract void pay();
 }
