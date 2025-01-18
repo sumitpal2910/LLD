@@ -2,8 +2,8 @@ package com.eightbit.learn.lld.basic.oops;
 
 public abstract class Card implements PaymentMethod {
 
-    private final String cardNumber;
-    private final String userName;
+    protected final String cardNumber;
+    protected final String userName;
 
     public Card(String cardNumber, String userName) {
         this.cardNumber = cardNumber;
