@@ -1,4 +1,4 @@
-package com.eightbit.learn.lld.solid.goodcode;
+package com.eightbit.learn.lld.solid.srp.goodcode;
 
 public class EmailService {
 

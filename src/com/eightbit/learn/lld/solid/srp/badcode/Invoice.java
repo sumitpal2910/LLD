@@ -1,4 +1,4 @@
-package com.eightbit.learn.lld.solid.badcode;
+package com.eightbit.learn.lld.solid.srp.badcode;
 
 public class Invoice {
     private double amount;
